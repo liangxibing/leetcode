@@ -2,7 +2,6 @@ package Algorithms;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.stream.IntStream;
 
 class Problem_1_Two_Sum {
     public int[] twoSum(int[] nums, int target) {
